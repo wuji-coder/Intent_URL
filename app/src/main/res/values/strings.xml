@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetURL</string>
+    <string name="test_url">请输入您要访问的URL</string>
+    <string name="test_button">浏览该网页</string>
+</resources>
